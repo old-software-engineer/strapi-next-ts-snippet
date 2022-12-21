@@ -20,14 +20,22 @@ This project is created using the **NextJS** with **TypeScript** in the frontend
 
 
 # Concepts
+### Strapi query engine
 -  Used the strapi query engine to get the count of blogs
+
+### Strapi resolver
 -  Used the strapi resolver to fetch the blogs related to a specific user which are published and associated with the given type
+
+### Knex
 - Used the knex raw query to update the views of blogs
+
+### Google oAuth
 - Used the react-oauth/google library to log in with google authentication
 
 
-# Tools
+# Tools & Libraries
 -  NextJS
 -  Typescript
 -  Strapi
 -  GraphQL
+-  Knex
