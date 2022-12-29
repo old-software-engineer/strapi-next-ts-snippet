@@ -45,10 +45,8 @@ It has code snippets of following tasks,
 - Admin panel
 ![Admin Panel](https://user-images.githubusercontent.com/15182066/209616255-535b5486-3b1d-4f47-a892-0865d0044b57.png)
 ----
-- Login pge
-<img width="1440" alt="login-page-sso 7cb527d9" src="https://user-images.githubusercontent.com/15182066/209616359-d5a650d7-add3-40f3-819c-1a62fa6018c5.png">
-----
-- User profile information
-<img width="1438" alt="user-information-profile 1e4122ef" src="https://user-images.githubusercontent.com/15182066/209616372-966a282f-caab-4c94-9088-bd836f40560e.png">
+- Login page
+![screenshot-localhost_7000-2022 12 29-14_59_47](https://user-images.githubusercontent.com/15182066/209935309-14e30478-7c8b-4987-a5fb-221a47daf90f.jpg)
+
 
 
